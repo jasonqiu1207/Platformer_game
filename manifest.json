@@ -1,0 +1,12 @@
+{
+  "short_name": "Vocab_prince",
+  "name": "My melonJS Boilerplate Game",
+  "orientation": "landscape",
+  "developer": {
+    "name": "Jason Qiu",
+    "url": "http://www.melonjs.org"
+  },
+  "start_url": "./index.html",
+  "display": "fullscreen",
+  
+}

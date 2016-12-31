@@ -1,0 +1,99 @@
+{
+  "level": "level1",
+  
+  "dialog": {
+    "Overhead": "You have collected the following letters for this previous adventure",
+    "requirement": "Enter 3-letter words that are formed by those letters above. You need at least 5 words to beat me. Use only lower-cases only",
+    "boss_confirm": "hehe, looks like you got some skills, let's start the word challenge",
+    "boss_deny": "you don't have enough power to challenge me!",
+    "boss_weak": "You really think you can beat me with 0 health?",
+    "die": "ahah, I cannot hold you no more, but my brothers will",
+  
+    "level_clear": "level1_cleard!",
+    "entered": "You entered:",
+    "Review": "Try to review them and learn their meanings:)",
+
+
+  }
+}
+
+
+{
+  "level": "level2",
+  
+  "dialog": {
+    "Overhead": "You have collected the following letters for this previous adventure",
+    "requirement": "Enter 3-letter words that are formed by those letters above. You need at least 6 words to beat me. Use only lower-cases only",
+    "boss_confirm": "hehe, looks like you got some skills, let's start the word challenge",
+    "boss_deny": "you don't have enough power to challenge me!",
+    "boss_weak": "You really think you can beat me with 0 health?",
+    "die": "ahah, I cannot hold you no more, but my brothers will",
+  
+    "level_clear": "level2_cleard!",
+    "entered": "You entered:",
+    "Review": "Try to review them and learn their meanings:)",
+
+
+  }
+}
+
+
+{
+  "level": "level3",
+  
+  "dialog": {
+    "Overhead": "You have collected the following letters for this previous adventure",
+    "requirement": "Enter 4-letter words that are formed by those letters above. You need at least 5 words to beat me. Use only lower-cases only",
+    "boss_confirm": "hehe, looks like you got some skills, let's start the word challenge",
+    "boss_deny": "you don't have enough power to challenge me!",
+    "boss_weak": "You really think you can beat me with 0 health?",
+    "die": "ahah, I cannot hold you no more, but my brothers will",
+  
+    "level_clear": "level3_cleard!",
+    "entered": "You entered:",
+    "Review": "Try to review them and learn their meanings:)",
+
+
+  }
+}
+
+
+{
+  "level": "level4",
+  
+  "dialog": {
+    "Overhead": "You have collected the following letters for this previous adventure",
+    "requirement": "Enter 4-letter words that are formed by those letters above. You need at least 9 words to beat me. Use only lower-cases only",
+    "boss_confirm": "hehe, looks like you got some skills, let's start the word challenge",
+    "boss_deny": "you don't have enough power to challenge me!",
+    "boss_weak": "You really think you can beat me with 0 health?",
+    "die": "ahah, I cannot hold you no more, but my brothers will",
+  
+    "level_clear": "level1_cleard!",
+    "entered": "You entered:",
+    "Review": "Try to review them and learn their meanings:)",
+
+
+  }
+}
+
+
+{
+  "level": "boss",
+  
+  "dialog": {
+    "1": "I never thought you could make this far. I under-estimated you, but everything ends here!!!",
+    "2": "Let's settle this once for all!!!!!",
+
+    "3": "Oh you are finally here my hero",
+    "4": "I know how to beat him.......",
+    "5": "You need to use words built from those letters above, any words that have at least 3-letters, 
+    in order to offset his attack or even hurt him",
+    
+  
+    "6": "Good luck...I know you can do it!",
+    
+
+
+  }
+}
